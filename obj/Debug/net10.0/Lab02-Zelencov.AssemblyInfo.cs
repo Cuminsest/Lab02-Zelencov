@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Zelencov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2353396fdf26388b8572799278c6ea9a9218c8f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d111881a785fe32a4f2deda3695bee88587660f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Zelencov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Zelencov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
