@@ -12,3 +12,4 @@ C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\refint\Lab02-Zelencov.d
 C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.pdb
 C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.genruntimeconfig.cache
 C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\ref\Lab02-Zelencov.dll
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.sourcelink.json
