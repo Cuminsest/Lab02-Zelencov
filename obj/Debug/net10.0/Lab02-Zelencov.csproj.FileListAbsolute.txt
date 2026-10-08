@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.AssemblyInfo.cs
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Lab02-Zelencov\bin\Debug\net10.0\Lab02-Zelencov.exe
+C:\Users\User\Documents\Lab02-Zelencov\bin\Debug\net10.0\Lab02-Zelencov.deps.json
+C:\Users\User\Documents\Lab02-Zelencov\bin\Debug\net10.0\Lab02-Zelencov.runtimeconfig.json
+C:\Users\User\Documents\Lab02-Zelencov\bin\Debug\net10.0\Lab02-Zelencov.dll
+C:\Users\User\Documents\Lab02-Zelencov\bin\Debug\net10.0\Lab02-Zelencov.pdb
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.dll
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\refint\Lab02-Zelencov.dll
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.pdb
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\Lab02-Zelencov.genruntimeconfig.cache
+C:\Users\User\Documents\Lab02-Zelencov\obj\Debug\net10.0\ref\Lab02-Zelencov.dll
